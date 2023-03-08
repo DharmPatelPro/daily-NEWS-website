@@ -1,1 +1,1 @@
-Next.js app
+React.js app
